@@ -92,6 +92,7 @@ A curated list of pretrained sentence and word embedding models
 |2019/08|[ViCo: Word Embeddings from Visual Co-occurrences](https://arxiv.org/abs/1908.08527)|7|[Pytorch](https://github.com/BigRedT/vico/ ) ![](https://img.shields.io/github/stars/BigRedT/vico.svg?style=social )|[ViCo](https://github.com/BigRedT/vico/#just-give-me-pretrained-vico )|
 |2019/11|[Spherical Text Embedding](https://arxiv.org/abs/1911.01196)|25|[C](https://github.com/yumeng5/Spherical-Text-Embedding ) ![](https://img.shields.io/github/stars/yumeng5/Spherical-Text-Embedding.svg?style=social )|-|
 |2019/??|[Unsupervised word embeddings capture latent knowledge from materials science literature](https://www.nature.com/articles/s41586-019-1335-8)|150|[Gensim](https://github.com/materialsintelligence/mat2vec ) ![](https://img.shields.io/github/stars/materialsintelligence/mat2vec.svg?style=social )|-|
+|2025/06|[Memory-Efficient FastText: A Comprehensive Approach Using Double-Array Trie Structures and Mark-Compact Memory Management](https://arxiv.org/abs/2506.01254)|N/A|[C++](https://github.com/initial-d/me_fasttext ) ![](https://img.shields.io/github/stars/initial-d/me_fasttext.svg?style=social )|-|
 
 ## OOV Handling
 

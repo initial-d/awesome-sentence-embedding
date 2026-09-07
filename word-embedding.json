@@ -581,5 +581,15 @@
         "name": "AraVec",
         "pretrained_link": "https://github.com/bakrianoo/aravec#n-grams-models-1",
         "doi": "10.1016/j.procs.2017.10.117"
+    },
+    {
+        "paper_title": "Memory-Efficient FastText: A Comprehensive Approach Using Double-Array Trie Structures and Mark-Compact Memory Management",
+        "paper_link": "https://arxiv.org/abs/2506.01254",
+        "code": [
+            {
+                "language": "C++",
+                "link": "https://github.com/initial-d/me_fasttext"
+            }
+        ]
     }
 ]
