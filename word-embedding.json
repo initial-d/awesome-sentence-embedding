@@ -505,6 +505,16 @@
         ]
     },
     {
+        "paper_title": "Memory-Efficient FastText: A Comprehensive Approach Using Double-Array Trie Structures and Mark-Compact Memory Management",
+        "paper_link": "https://arxiv.org/abs/2506.01254",
+        "code": [
+            {
+                "language": "C++",
+                "link": "https://github.com/initial-d/me_fasttext"
+            }
+        ]
+    },
+    {
         "paper_title": "GloVe: Global Vectors for Word Representation",
         "paper_link": "https://nlp.stanford.edu/pubs/glove.pdf",
         "code": [
